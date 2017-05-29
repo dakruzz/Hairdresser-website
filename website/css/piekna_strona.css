@@ -175,6 +175,13 @@ a:hover
 	animation: flip .5s;
 }
 
+#oferta,#cennik,#kontakt
+{
+	padding-top: 60px;
+	padding-bottom: 30px;
+	text-align: center;	
+}
+
 .oferta_naglowek
 {
 	padding-bottom: 50px;
@@ -192,7 +199,6 @@ a:hover
 	-webkit-animation: pulse .9s;
 	animation: pulse .9s;
 	opacity: 0.8;
-	cursor: default;
 }
 
 
