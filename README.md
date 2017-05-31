@@ -1,4 +1,4 @@
 # Hairdresser-website
-Firstone
+First responsive website.
 
-if you want check this here: http://www.salonmodella.pl
+if you want check this HERE: http://www.salonmodella.pl
