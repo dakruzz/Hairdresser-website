@@ -2,3 +2,5 @@
 My first responsive website.
 
 if you want check this HERE: http://www.salonmodella.pl
+
+Created May 21
